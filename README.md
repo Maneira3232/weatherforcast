@@ -10,6 +10,8 @@ I created a page that shows you the current weather in the area searched and sho
 
 ## Author 
 
-Joe Maniera
+Joe Maniera:
+
 https://github.com/Maneira3232
 
+https://github.com/Maneira3232/weatherforcast.git
