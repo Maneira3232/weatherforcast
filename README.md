@@ -14,4 +14,4 @@ Joe Maniera:
 
 https://github.com/Maneira3232
 
-https://github.com/Maneira3232/weatherforcast.git
+https://github.com/Maneira3232/weatherforecast.git
